@@ -5,4 +5,4 @@
 * 不解释使用方法，如果不明白请先参考《SaltStack快速入门》
 * [unixhot](http://www.unixhot.com)
 ## 案例架构图
-![oidboy](http://10.20.23.249/root/salt-code/blob/master/saltstack-arch.png)
+![oldboy](https://github.com/0820sdd/salt-code/blob/master/saltstack-arch.png)
